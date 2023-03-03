@@ -1,4 +1,4 @@
-package = "kong-plugin-redirect"
+package = "kong-redirect"
 version = "0.1.0-1"
 
 supported_platforms = { "linux", "macosx" }
@@ -12,10 +12,6 @@ description = {
   summary = "Kong-plugin-redirect is a custom plugin for kong to redirext URL request.",
   homepage = "https://resolutionlife.github.io/kong-plugin-redirect",
   license = "MIT License",
-}
-
-dependencies = {
-  "lua >= 5.4",
 }
 
 build = {
