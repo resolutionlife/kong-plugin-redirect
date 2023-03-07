@@ -5,7 +5,7 @@ supported_platforms = { "linux", "macosx" }
 
 source = {
   url = "git+https://github.com/resolutionlife/kong-plugin-redirect.git",
-  tag = "0.1.0",
+  tag = "v0.1.0",
 }
 
 description = {
